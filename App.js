@@ -8,7 +8,7 @@ function App()
 
   <div className="App">
   <h1>Props !</h1>
-     <Student />
+     <Student name='Rahul'></Student>
     </div>
    );
 }
